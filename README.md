@@ -1,3 +1,4 @@
 # boredTicTacToe
 simple c# TicTacToe
-was bored in Java class so wrote a C# TicTacToe.... just felt like using C#
+
+I was bored in Java class so I wrote a C# TicTacToe.... just felt like using C#
